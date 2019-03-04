@@ -1,0 +1,61 @@
+<>html>
+<head>
+<title> first project</title>
+<style> table caption {font _weight :bold :colour :red}
+p{font _weight :bold :colour :blue}
+</style>
+</head>
+<body>
+<p align ="center"> spring term 2019 comunication  department</p>
+<table border ="1" width ="70%">
+<tr>
+<th>
+</th>
+<th> money </th>
+<th>tuesday</th>
+<th> wedensday</th>td
+<th>thursday</th>
+</tr>
+<tr>
+<td>1pm</th>
+<td row span ="2" bg colour ="yellow">html</td>
+<td></td>
+<td rowspan ="2" bg colour ="pink">html hour by apps</td>
+<td row span="2" bg colour ="pink">html</td>
+</tr>
+<tr>
+<td>3 pm</td>
+<td rowspan="2" bg colour ="gray">deptmeeting</td>
+</tr>
+<tr>
+<td>2pm</td>
+<td rowspan="3"bg colour ="green">css</td>
+<td rowspan="3"bg colour ="green">css</td>
+</tr>
+<tr>
+<td>3pm</td>
+<td></td>
+</tr>
+<tr>
+<td>5pm</td>
+<td rowspan="3"bg colour="gray">ec meeting</td>
+</tr>
+<tr>
+<td>3:30pm</td>
+<td row span="3" bg colour="blue">css205</td>
+<td rowspan="3"bg colour="blue">css205</td>
+</tr>
+<tr>
+<td>3:30pm</td>
+</tr>
+<td>4pm</td>
+<td><td>
+</tr>
+</table>
+</body>
+</html>
+
+
+
+
+'
